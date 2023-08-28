@@ -4,7 +4,7 @@ import pandas as pd
 st.set_page_config(page_title="Meu Site Streamlit")
 
 with st.container():
-    st.subheader("Meu primeiro teste com o Streamlit")
+    st.subheader("Meu primeiro 'testando' com o Streamlit")
     st.title("Dashboard de Contratos")
     st.write("Informações sobre os contratos fechados pela Hash&Co ao longo de maio")
     st.write("Quer aprender Python? [Clique aqui](https://www.hashtagtreinamentos.com/curso-python)")
